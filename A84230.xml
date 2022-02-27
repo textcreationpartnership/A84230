@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The examiner examined. Certaine questions proposed to the author of Zeale examined concerning his principles. Whereby he endevours to prove; that the magistrate by his authority ought not to advance true religion, but to give a toleration to idolatry and heresie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84230</idno>
+            <idno type="STC">Wing E3733</idno>
+            <idno type="STC">Thomason E670_8</idno>
+            <idno type="STC">ESTC R207036</idno>
+            <idno type="EEBO-CITATION">99866111</idno>
+            <idno type="PROQUEST">99866111</idno>
+            <idno type="VID">166221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166221)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E670[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The examiner examined. Certaine questions proposed to the author of Zeale examined concerning his principles. Whereby he endevours to prove; that the magistrate by his authority ought not to advance true religion, but to give a toleration to idolatry and heresie.</title>
+               </titleStmt>
+               <extent>9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright, at the Kings-head in the Old Bailey,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Zeal examined: or, a discourse for liberty of conscience in matters of religion. Upon an occasionall question concerning the punishment of idolaters. 1652.</note>
+                  <note>Annotation on Thomason copy: "July. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166221:1" rendition="simple:additions"/>
+            <p>THE EXAMINER EXAMINED. Certaine <hi>Questions</hi> propoſed to the AUTHOR of <hi>Zeale</hi> examined con<g ref="char:EOLhyphen"/>cerning his PRINCIPLES. <hi>Whereby he endevours to prove;</hi> That the MAGISTRATE by his <hi>Authority</hi> ought not to advance true RELIGION, but to give a Tole<g ref="char:EOLhyphen"/>ration to <hi>Idolatry</hi> and <hi>Hereſie.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ESAY 49.22, 23.</hi>
+               </bibl>
+               <p>Thus ſaith the Lord God; Behold, I will lift up my hand to the <hi>Gentiles,</hi> &amp;c. And Kings ſhall be thy nurſing Fathers, and their Queens thy nurſing Mothers.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>REVEL. 17.12, 16.</hi>
+               </bibl>
+               <p>The ten Horſes which thou ſaweſt are ten Kings. Theſe ſhall hate the Whore, and ſhall make her deſolate, and naked, and ſhall eate her fleſh, and burne her with fire.</p>
+            </q>
+            <p>Printed at <hi>London</hi> for <hi>John Wright,</hi> at the Kings-head in the Old Bailey, 1652.</p>
+         </div>
+         <div type="preface">
+            <pb n="2" facs="tcp:166221:2"/>
+            <p>
+               <gap reason="missing" resp="#OXF" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap> be given up to ſtrong Deluſions not to receive the Love of the Truth; yea, an univerſall Love of all Truth. But if he propoſe things contrary to Truth or doubtfull things for re<g ref="char:EOLhyphen"/>ſolved Truths (as indeed he is very cloudy in many of his Aſſertions) herein he may be Que<g ref="char:EOLhyphen"/>ſtioned, That ſo he may receive Light in thoſe things wherein he erres by being certainly in the Darke; and may be ſtird up to ſeeke more clear Light in thoſe things which he yet ſees but in a Miſt.</p>
+            <p>Towards theſe Ends are theſe following Enquiries; which if they ſhake the <hi>Exami<g ref="char:EOLhyphen"/>ners</hi> Principles and Pillars, and the Houſe built thereon doe fall, it will be no great loſſe nor wonder. No loſſe nor wonder, I ſay, if a Houſe of <hi>Dagon</hi> fall, the receptacle and ſhel<g ref="char:EOLhyphen"/>ter of Idols and Idolatry, Hereſie, and Blaſ<g ref="char:EOLhyphen"/>phemie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:166221:2"/>
+            <list>
+               <label>
+                  <hi>Question</hi> 1.</label>
+               <item>WHether a MAGISTRATE that knowes the Do<g ref="char:EOLhyphen"/>ctrine of Salvation by <hi>Chriſt Jeſus,</hi> doe fulfill the Office of a Nurſing Father, if he doe not cauſe this ſav<g ref="char:EOLhyphen"/>ing Food to be given to his Children; and Poyſon, that is a contrary Doctrine to be kept from them?</item>
+               <label>2.</label>
+               <item>Whether the Doctrine of GRACE that bringeth Sal<g ref="char:EOLhyphen"/>vation, doe not teach Men to live godly, righteouſly and ſoberly; and more particularly, to obey Magiſtrates, and to Live in Love and Peace among themſelves; and whether ſuch a Doctrine doe not advance the peace and proſperity of a Nation; and conſequently, whether a Magiſtrate be not bound to advance this Doctrine, which doth advance the peace and proſperity of a Nation?</item>
+               <label>3.</label>
+               <item>Whether Godlineſſe hath not the promiſe of this life and that to come? And whether theſe Promiſes doe not containe in them all good and happineſſe? and if ſo, whether the Magiſtrate be not bound, to his power, to advance that godlineſſe which gives all good and hap<g ref="char:EOLhyphen"/>pineſſe to a Nation?</item>
+               <label>4.</label>
+               <item>Whether the Magiſtrate be not bound to love GOD with all his Might, and accordingly to advance his Glory with all his might? And whether he doe ſo, if he doe not put forth all his might in advancing Gods true worſhip and ſervice, and the chiefe good of Gods People committed to his care?</item>
+               <pb n="4" facs="tcp:166221:3"/>
+               <label>5.</label>
+               <item>The People being bound to pray for Magiſtrates, that under them they may lead a peaceable &amp; quiet life in all godlineſſe and honeſty: Whether the Magiſtrate be not bound to doe that which the People are bound to pray that he may doe? And whether he be not alſo bound to give himſelfe up to God to be his ſervant and Inſtru<g ref="char:EOLhyphen"/>ment, when he granteth this Prayer?</item>
+               <label>6.</label>
+               <item>Whether <hi>Abraham,</hi> and the Heads of other Families before the Law,<note place="margin">Gen. 18.19.</note> were not Magiſtrates in their Families? And whether <hi>Abraham</hi> did not command his Family to keepe the way of the Lord? And whether God did not commend him for doing ſo?<note place="margin">Gen. 35.2.</note> and whether <hi>Jacob</hi> did not purge his Houſe from Idols, and cauſed his Houſhold to goe up to <hi>Bethell</hi> to worſhip the true God?<note place="margin">Sect. <hi>10.</hi>
+                  </note> And whe<g ref="char:EOLhyphen"/>ther <hi>Abraham</hi> and <hi>Jacob</hi> were meerly Fellow Servants with their Servants (as this <hi>Examiner</hi> ſaith) and their Houſhold might command <hi>Abraham</hi> and <hi>Jacob,</hi> as well as <hi>Abraham</hi> and <hi>Jacob</hi> command their Houſhold?</item>
+               <label>7.</label>
+               <item>Whether <hi>Artaxerxes</hi> did well in making a Decree for the advancement of the true worſhip of the true God,<note place="margin">Ezra 7.</note> and in cauſing <hi>Ezra</hi> to teach them the Law of God? And whether the King of <hi>Niniveh</hi> did well to command his People to keepe a generall Faſt, and to turne from their evill wayes, whereby he ſaved that great City? Or whe<g ref="char:EOLhyphen"/>ther he might not have done better to have left them to a careleſſe liberty, and ſo to deſtruction?</item>
+               <label>8.</label>
+               <item>Whether any of the Prophets, Apoſtles, yea our Savi<g ref="char:EOLhyphen"/>our himſelfe did ever except at the Magiſtrates Auhority, for queſtioning them in matters of Religion?</item>
+               <pb n="5" facs="tcp:166221:3"/>
+               <label>9.</label>
+               <item>If a beleeving Magiſtrate, as a nurſing Father, Recom<g ref="char:EOLhyphen"/>mend to his Children the wholſome food of the Word, that is able to ſave their Soules, and encourage thoſe that diſperſe and diſpenſe it; and withall, forbid others to give abroad the poyſon, contrary to it? Whether the <hi>Examiner</hi> hath juſt cauſe to ſay, that this is a Ground for another Magiſtrate to command the giving abroad of poyſon, and to forbid the delivering of the wholſome food that may ſave his peoples ſoules?</item>
+               <label>10.</label>
+               <item>Authority being given by God to <hi>Aſa</hi> to advance true Religion and ſuppreſſe Idolatry (which he did to the de<g ref="char:EOLhyphen"/>poſing of his Mother) Whether this were a ground for <hi>Manaſſeh,</hi> (one of his Succeſſours) to ſet up Idolatry, and a principle of Perſecution, whereupon he might kill thoſe that would not worſhip his Idols?</item>
+               <label>11.</label>
+               <item>When God made a Law, that Blaſphemy proved by two Witneſſes, ſhould be puniſhed with Death; Whe<g ref="char:EOLhyphen"/>ther he therein did lay a principle of Perſecution or Murder, whereby <hi>Jeſabel</hi> by two falſe Witneſſes might unjuſtly put <hi>Naboth</hi> to death?</item>
+               <label>12.</label>
+               <item>Whether <hi>Paul</hi> commanding Chriſtian Fathers to bring up their Children in the nurture and admonition of the Lord, doe hereby lay a Principle,<note place="margin">Eph. 6 4.</note> whereupon Idolatrous Parents may bring up their Children in the nurture and and Doctrine of Idolatry; that is, in the doctrine of De<g ref="char:EOLhyphen"/>vils?</item>
+               <pb n="6" facs="tcp:166221:4"/>
+               <label>13.</label>
+               <item>Idolatry being againſt the Light of Nature,<note place="margin">Job 3.28. Rom. 1.</note> and there<g ref="char:EOLhyphen"/>fore puniſhable under the Law of Nature, and ſo ac<g ref="char:EOLhyphen"/>knowledged by <hi>Iob,</hi> who lived before the Law of <hi>Moſes;</hi> Whether the Magiſtrate under the Goſpell (which gives more light to the diſcovery of the ſinfulneſſe and guilt of Idolatry) may not alſo reſtraine and puniſh that ſinne?</item>
+               <label>14.</label>
+               <item>Idolatry by the teſtimony of <hi>Paul,</hi> drawing downe heavie Plagues upon a People, and delivering them up to grievous and abominable ſinnes,<note place="margin">Rom. 1.18 &amp; ſeq.</note> the worſt of Plagues, whereof he giveth a Catalogue; and actually cauſing the Land of <hi>Canaan</hi> to ſpue out the Inhabitants; Whe<g ref="char:EOLhyphen"/>ther it doe not concerne the Magiſtrate to deliver his People from thoſe Plagves,<note place="margin">Levit. 20.2, 3, 22, 23.</note> by taking away Idols, the cauſe of them, and to caſt out Idolatry, rather then it ſhould caſt out the People from the Land where he Go<g ref="char:EOLhyphen"/>verneth?</item>
+               <label>15.</label>
+               <item>Whether this <hi>Examiner</hi> doe not directly ſet himſelfe to confute the Apoſtle <hi>Paul;</hi>
+                  <note place="margin">Sect. <hi>9.</hi>
+                  </note> for the <hi>Examiner</hi> argues, that it is not eaſie to finde that the Heathen ſhould not make a graven Image, nor any marvell that they ſhould by the forme of ſome Creature repreſent the inviſible Be<g ref="char:EOLhyphen"/>ing, and worſhip him in the forme of ſuch a repreſen<g ref="char:EOLhyphen"/>tation. But <hi>Paul</hi> juſt on the Contrary proveth,<note place="margin">Rom. 1.</note> That by the things that are made and ſeene, the Inviſible things of God, even his eternall power and God head are ſo manifeſt, that they are without excuſe who knowing God doe not glorifie him as God, but change the glory of the Incorruptible God into an Image made
+<pb n="7" facs="tcp:166221:4"/>like to corruptible Man, and to Birds and foure footed Beaſts. But this brings to minde that ſaying concern<g ref="char:EOLhyphen"/>ing Idols; They have Eyes and ſee not, and they that worſhip them are like them, and ſo are thoſe that plead for them?</item>
+               <label>16.</label>
+               <item>Whether Idolatry may not be puniſhed;<note place="margin">Sect. <hi>5.</hi>
+                  </note> becauſe the Magiſtrate doth not know the heart of the Idolaters? And whether this reaſon doe not directly oppoſe that Law of God which puniſht Idolatry, and the executi<g ref="char:EOLhyphen"/>on agreeable to that Law; when thoſe that worſhipt the Calfe were ſlaine by the command of <hi>Moſes;</hi> and the worſhippers of <hi>Baal</hi> by <hi>Iehu;</hi> and the Prophets of <hi>Baal</hi> by <hi>Elias?</hi>
+               </item>
+               <label>17.</label>
+               <item>Whether Idolaters may not be convicted by outward actions, profeſſions and confeſſions;<note place="margin">Sect. <hi>5.</hi>
+                  </note> and thereby the Heart of an Idolater diſcovered, as well as the Heart of a Man-killer? For ſuch a one is condemned be<g ref="char:EOLhyphen"/>cauſe of Malice in his heart; without which it were not Murder nor he a Murderer?</item>
+               <label>18.</label>
+               <item>If two ſinnes be of a haynous nature and both de<g ref="char:EOLhyphen"/>ſerve puniſhment, Whether one that can be diſcerned ſhould be ſpared, becauſe the other is not puniſhed for want of diſcerning; yea, whether if both may be diſcerned and puniſhable, yet neither ſhould be puniſht, becauſe both are not?</item>
+               <label>19.</label>
+               <item>Whether <hi>Aſa</hi> did well in forbidding Idolatrous wro<g ref="char:EOLhyphen"/>ſhip,
+<pb n="8" facs="tcp:166221:5"/>and bringing the People into a Covenant with God;<note place="margin">Sect. <hi>22.</hi>
+                  </note> ſince (as the <hi>Examiner</hi> ſaith) he might thereby have made many to turne Hypocrites; when yet the Scripture ſaith,<note place="margin">2 Chro. 15.</note> That they ſware withall their heart, and ſought God with their whole deſire? And though Hypocreſie ſhould follow ſuch holy Commands, whe<g ref="char:EOLhyphen"/>ther the fault of Hypocriſie be not from the Corrupti<g ref="char:EOLhyphen"/>on of the Hypocrite,<note place="margin">Rom 7.12, 13</note> and not at all from a holy and good Command?</item>
+               <label>20.</label>
+               <item>Whether the parts and portions of Scripture that con<g ref="char:EOLhyphen"/>taine Principles neceſſary to Salvation,<note place="margin">Sect. <hi>9.</hi>
+                  </note> deſerve to be called meerely by the Name of Formes, and much leſſe to be deſpiſed under that Name? And conſequently whether the <hi>Examiner</hi> thinke it fit upon the Title of Formes to deſpiſe the Principles of the Doctrine of CHRIST mentioned by the Author to the <hi>He<g ref="char:EOLhyphen"/>brewes?</hi>
+                  <note place="margin">Heb. 6.1.</note>
+               </item>
+               <label>21.</label>
+               <item>If the <hi>Examiner</hi> were ready to ſtarve, and the Ma<g ref="char:EOLhyphen"/>giſtrate (as <hi>Pharaoh</hi> did to the Prieſts) would give him an allowance of Bread in a Portion,<note place="margin">Sect. <hi>9.</hi>
+                  </note> Whether he would deſpiſe that Bread, and call it a Forme, and ſo ſtarve to death? Or in a deſperate Sickneſſe, whether he would refuſe the receit of a Phyſitian that may ſave his life, becauſe it comes in a preſcript or Forme? Or rather there being a ſubſtantiall and ſaving Truth in that which he cals a Forme; Whether the ſaving vertue of the ſubſtance be not of more value to gaine acceptati<g ref="char:EOLhyphen"/>on, then the word Forme conſiderable to the caſting a<g ref="char:EOLhyphen"/>way of the ſubſtance that is able to ſave?</item>
+               <pb n="9" facs="tcp:166221:5"/>
+               <label>22.</label>
+               <item>If God was to be Bleſt,<note place="margin">Ezra. 7.27.</note> for putting into the Heart of a Heathen Magiſtrate to make Lawes for the ad<g ref="char:EOLhyphen"/>vancement of true Religion; Whether he doe not come neere to a curſe that would take out of the Heart of a Chriſtian Magiſtrate the advancement of true Re<g ref="char:EOLhyphen"/>ligion, and perſwade him to give a Toleration to the chiefe Enemies of Religion, Idolatry and Hereſie.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
